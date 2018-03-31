@@ -1,5 +1,7 @@
 年,月,日,時,AGC,ABC,ARC,Other,問題番号,問題名,点数,コンテスト,区分,ジャンル1,ジャンル2,時間,コメント
 2018,3,19,0,,091,092,,C,2D Plane 2N Points,400,はい,解説,二部マッチング,貪欲,5,2つのグループのペアを結びつける問題なので二部マッチング問題である。貪欲解法は2つのグループをまとめてソートすることで楽に実装できる。
-2018,3,26,12,,,,AOJ RitsCamp18Practice,A,Tournament,,はい,コン,簡単,,1,トーナメントの試合数の問題。入力が無駄に多いところが競プロっぽい。
-2018,3,26,12,,,,AOJ RitsCamp18Practice,B,The Mean of Angles,,はい,コン,算数,場合分け,5,２つの角度のちょうど間の角を求める問題
-2018,3,26,12,,,,AOJ RitsCamp18Practice,
+2018,3,26,13,,,,AOJ RitsCamp18Practice,A,Tournament,,はい,コン,簡単,,1,トーナメントの試合数の問題。入力が無駄に多いところが競プロっぽい。
+2018,3,26,13,,,,AOJ RitsCamp18Practice,B,The Mean of Angles,,はい,コン,算数,場合分け,5,２つの角度のちょうど間の角を求める問題
+2018,3,26,13,,,,AOJ RitsCamp18Practice,C,Alphabet Block,,はい,未AC,,,,
+2018,3,26,14,,,,AOJ RitsCamp18Day1,C,Anagram,,はい,コン,簡単,,10,C++のmapの一致判定が高速。
+2018,3,26,16,,,,AOJ RitsCamp18Day1,D,Aquarium,,はい,コン,DP,,60,仕切りを外す問題だけど外さないときを基準にして漸化式を立てると良い。dpテーブルは表裏のテクを利用してMLEを防ぐ。
