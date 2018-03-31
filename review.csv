@@ -9,6 +9,6 @@
 2018,3,27,14,,,,AOJ RitsCamp18Day2,F,Ghost Legs,,はい,コン,半分全列挙,,60,あみだくじの並び順は関係ないので半分全列挙やるだけ、ICPCでは遅くとも20分で提出までこぎつけたい。
 2018,3,27,14,,,,AOJ RitsCamp18Day2,D,AABABCAC,,はい,コン,文字列,,60,文字列(|S|=10^5)で操作を行う。
 2018,3,27,10,,,,AOJ RitsCamp18Day3,A,Many Kinds of Apples,,はい,コン,簡単,,5,簡単なクエリに答える
-2018,3,27,10,,,,AOJ RitsCamp18Day3,B,Hierarchical Calculator,,はい,コン,算数,場合分け,,20,勘違いして1WA
+2018,3,27,10,,,,AOJ RitsCamp18Day3,B,Hierarchical Calculator,,はい,コン,算数,場合分け,20,勘違いして1WA
 2018,3,27,10,,,,AOJ RitsCamp18Day3,C,AA Graph,,はい,コン,実装,,15,実装するだけ こういう実装は得意
 2018,3,27,10,,,,AOJ RitsCamp18Day3,D,,,はい,未,素因数分解,考察,30,いい感じに考察できたと思ったが。
