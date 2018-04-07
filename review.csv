@@ -2,7 +2,7 @@
 2018,3,19,0,,091,092,,C,2D Plane 2N Points,400,はい,解説,二部マッチング,貪欲,5,2つのグループのペアを結びつける問題なので二部マッチング問題である。貪欲解法は2つのグループをまとめてソートすることで楽に実装できる。
 2018,3,26,13,,,,AOJ RitsCamp18Practice,A,Tournament,,はい,コン,簡単,,1,トーナメントの試合数の問題。入力が無駄に多いところが競プロっぽい。
 2018,3,26,13,,,,AOJ RitsCamp18Practice,B,The Mean of Angles,,はい,コン,算数,場合分け,5,２つの角度のちょうど間の角を求める問題
-2018,3,26,13,,,,AOJ RitsCamp18Practice,C,Alphabet Block,,はい,未,文字列,,,
+2018,3,26,13,,,,AOJ RitsCamp18Practice,C,Alphabet Block,,はい,時間,文字列,回文,5,ちょっくら誤読した。
 2018,3,26,14,,,,AOJ RitsCamp18Day1,C,Anagram,,はい,コン,簡単,文字列,10,C++のmapの一致判定が高速。
 2018,3,26,16,,,,AOJ RitsCamp18Day1,D,Aquarium,,はい,コン,DP,,60,仕切りを外す問題だけど外さないときを基準にして漸化式を立てると良い。dpテーブルは表裏のテクを利用してMLEを防ぐ。
 2018,3,27,11,,,,AOJ RitsCamp18Day2,B,OOIIOII,,はい,コン,簡単,2進法,6,実装に時間がかかりすぎ
@@ -11,4 +11,5 @@
 2018,3,27,10,,,,AOJ RitsCamp18Day3,A,Many Kinds of Apples,,はい,コン,簡単,,5,簡単なクエリに答える
 2018,3,27,10,,,,AOJ RitsCamp18Day3,B,Hierarchical Calculator,,はい,コン,算数,場合分け,20,勘違いして1WA
 2018,3,27,10,,,,AOJ RitsCamp18Day3,C,AA Graph,,はい,コン,実装,,15,実装するだけ こういう実装は得意
-2018,3,27,10,,,,AOJ RitsCamp18Day3,D,,,はい,未,素因数分解,考察,30,いい感じに考察できたと思ったが。
+2018,3,27,10,,,,AOJ RitsCamp18Day3,D,The Diversity of Prime Factorization,,はい,未,素因数分解,考察,30,いい感じに考察できたと思ったが。
+2018,3,31,17,,,,GCJ Practice Session 2018,A,Number Guessing,5+10,はい,,2分探索,,5,GCJの環境変わったね
